@@ -1,4 +1,5 @@
 # 2SRNN
+
 Domain Adaption for sEMG-based Gesture Recognition with Recurrent Neural Networks
 
-This is a placeholder only untill paper acceptance.
+This is the source code of our 2-stage RNN domain adaptation model in the publication (https://arxiv.org/abs/1901.06958) accepted to IJCNN 2019 (https://www.ijcnn.org/).
